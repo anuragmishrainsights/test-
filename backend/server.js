@@ -1,5 +1,4 @@
 import express from 'express';
-import fsddswdw from 'fsddswdw';
 const app = express();
 const port = process.env.PORT || 3000;
 
